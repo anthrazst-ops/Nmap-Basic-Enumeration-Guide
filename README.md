@@ -1,5 +1,5 @@
-# Nmap Enumeration Guide
-![Beginner](https://img.shields.io/badge/LEVEL%201-Beginner-brightgreen)
+# Nmap Enumeration Guide ![Beginner](https://img.shields.io/badge/LEVEL%201-Beginner-brightgreen)
+
 A curated collection of Nmap command-line examples and best practices. This repository serves as a functional reference for common network reconnaissance tasks, including TCP/UDP scanning, timing templates, and output parsing, aimed at optimizing your workflow during security assessments.
 
 ## Table of Contents
